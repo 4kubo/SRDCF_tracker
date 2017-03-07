@@ -1,4 +1,6 @@
-This MATLAB code implements the SRDCF tracker [1].
+This is under implementation
+
+This python code implements the SRDCF tracker [1].
 
 Installation:
 If the pre-compiled mexfiles do not work, the provided compilemex_[linux|windows] should compile them from the provided source code. Alternatively, you can try to modify them for your system.
@@ -21,7 +23,7 @@ Third party code used in the implementation of this tracker is:
 
 [1] Martin Danelljan, Gustav Häger, Fahad Shahbaz Khan and Michael Felsberg.
 	Learning Spatially Regularized Correlation Filters for Visual Tracking.
-	In Proceedings of the International Conference in Computer Vision (ICCV), 2015. 
+	In Proceedings of the International Conference in Computer Vision (ICCV), 2015.
 
 [2] Piotr Dollár.
     "Piotr’s Image and Video Matlab Toolbox (PMT)."
